@@ -8,7 +8,6 @@ This project aims to classify salary levels in the Data Science field using vari
 - `Metody_walidacji.html` – raport końcowy w formacie HTML  
 - `Cleaned_Dataset.csv` – zbiór danych użyty w analizie (opcjonalnie)  
 - `README.md` – opis projektu  
-- (opcjonalnie `Metody_walidacji.Rmd` jeśli chcesz też dodać źródło kodu)
 
 ## Autor
 Oleh Zemlianyi  
