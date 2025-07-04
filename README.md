@@ -12,5 +12,4 @@ This project aims to classify salary levels in the Data Science field using vari
 ## Autor
 Oleh Zemlianyi  
 Politechnika Lubelska  
-Kierunek: Inżynieria danych i analiza danych  
-Semestr 6
+
